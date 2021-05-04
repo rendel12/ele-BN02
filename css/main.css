@@ -3,7 +3,7 @@
 
 /*reset*/
 
-body{min-width:700px; color:#333;}
+body{max-width:780px; color:#333;}
 
 body,h1,h2,h3,h4,h5,h6,p,dl,dd{margin:0;}
 
